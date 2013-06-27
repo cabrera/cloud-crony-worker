@@ -25,7 +25,7 @@ setup(
     author_email='alejandro.cabrera@rackspace.com',
     description='RESTful Scheduling as a Service: Cloud Crony Worker.',
     long_description=open('README.rst').read(),
-    url='https://github.com/cabrera/cloud-crony',
+    url='https://github.com/cabrera/cloud-crony-worker',
     packages=find_packages(),
     zip_safe=False,
     install_requires=file_lines(pip_requires),
